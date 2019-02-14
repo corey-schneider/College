@@ -1,0 +1,14 @@
+## Course Name, CRN, Textbook title, Textbook author, Textbook publisher, Textbook ISBN, Textbook cost, Course credits
+## -------------------------------------------------------------------------------------------------------------------
+Object Oriented Programming, 80853, Java Programming, D.S. Malik, McGraw-Hill, 978-0134670942, 79.99, 4.0
+Statistics I, 80897, Introductory Statistics, Waylon Dalton, Cengage Learning, 978-2853012882, 84.95, 3.0
+Calculus I, 80951, Calculus with Analytic Geometry, Justine Henderson, Houghton Mifflin, 978-5723856293, 180.00, 4.0
+Calculus II, 80952, Advanced Calculus, Abdullah Lang, Pearson, 978-2385629359, 210.00, 4.0
+Introduction to Business, 94531, Business, Rubert Kelly, Scholastic, 978-9453183553, 119.95, 3.0
+Introduction to Computer Science, 93420, Fundamental Programming, Robert Barta, Thomson Reuters, 978-9342058235, 35.50, 4.0
+Standard Freshman Composition, 94615, English Composition, Robert Simmons, Wolters, 978-9461538510, 85.95, 3.0
+Financial Accounting I, 90013, Principles of Accounting, Robert Connors, Wiley, 978-9001338532, 115.00, 3.0
+Art Appreciation, 91132, Historical Art, Author name, Hachette, 978-9113258623, 12.20, 3.0
+Principles of Computing with Java, 90636, Java for Beginners, Debra Wakefield, Harper Collins, 978-9063658323, 60.75, 4.0
+Western Civilization I, 90434, Western Civilization, Robert Busby, Simon Schuster, 978-9043423851, 110.95, 3.0
+Introduction to Psychology, 91005, Psychology, Bob Campott, Perseus, 978-9100538529, 110.95, 3.0

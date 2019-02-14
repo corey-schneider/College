@@ -1,0 +1,16 @@
+## Faculty: title, first name, last name, phone number, ID, salary
+## Student: first name, last name, phone number, major, ID, GPA, courses [taken/in progress/future]
+Faculty, Professor, John, Roe, 631-010-1010, 1, 63605.0
+Student, Connor, Riker, 631-222-2332, Earth Scientist, 2, 4.0, Taken: 80853, 
+In progress: 80897, 91005, 
+Future: 91132, 80952, 94615, 
+Student, Riley, Birrds, 631-372-4383, Liberal Arts, 3, 3.0, Taken: 80951, 80853, 
+In progress: 90013, 
+Future: 91005, 90434, 
+Faculty, Professor, Chris, Bolton, 631-202-3993, 4, 68238.29
+Student, Billy, Joel, 631-152-5392, Computer Science, 5, 3.38, Taken: 80897, 94531, 94615, 80951, 
+In progress: 80853, 80952, 
+Future: 90434, 91005, 
+Student, Emma, Rosenzweig, 631-300-9670, Hospitality, 6, 3.5, Taken: 94615, 91005, 
+In progress: 90013, 
+Future: 80951, 80952, 

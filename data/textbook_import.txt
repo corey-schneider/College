@@ -1,0 +1,14 @@
+## Textbook name, author, publisher, ISBN, price
+## ------------------------------------------------
+Java Programming, D.S. Malik, McGraw-Hill, 978-0134670942, 79.99
+Introductory Statistics, Waylon Dalton, Cengage Learning, 978-2853012882, 84.95
+Calculus with Analytic Geometry, Justine Henderson, Houghton Mifflin, 978-5723856293, 180.00
+Advanced Calculus, Abdullah Lang, Pearson, 978-2385629359, 210.00
+Business, Rubert Kelly, Scholastic, 978-9453183553, 119.95
+Fundamental Programming, Robert Barta, Thomson Reuters, 978-9342058235, 35.50
+English Composition, Robert Simmons, Wolters, 978-9461538510, 85.95
+Principles of Accounting, Robert Connors, Wiley, 978-9001338532, 115.00
+Historical Art, Jeffery McKinn, Hachette, 978-9113258623, 12.20
+Java for Beginners, Debra Wakefield, Harper Collins, 978-9063658323, 60.75
+Western Civilization, Robert Busby, Simon Schuster, 978-9043423851, 110.95
+Psychology, Bob Campott, Perseus, 978-9100538529, 110.95

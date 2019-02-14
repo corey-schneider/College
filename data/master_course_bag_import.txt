@@ -1,0 +1,14 @@
+## Course name, CRN, Textbook ISBN, course credits
+## -------------------------------------------------------------------------------------------------------------------
+Object Oriented Programming, 80853, 978-0134670942, 4.0
+Statistics I, 80897, 978-2853012882, 3.0
+Calculus I, 80951, 978-5723856293, 4.0
+Calculus II, 80952, 978-2385629359, 4.0
+Introduction to Business, 94531, 978-9453183553, 3.0
+Introduction to Computer Science, 93420, 978-9342058235, 4.0
+Standard Freshman Composition, 94615, 978-9461538510, 3.0
+Financial Accounting I, 90013, 978-9001338532, 3.0
+Art Appreciation, 91132, 978-9113258623, 3.0
+Principles of Computing with Java, 90636, 978-9063658323, 4.0
+Western Civilization I, 90434, 978-9043423851, 3.0
+Introduction to Psychology, 91005, 978-9100538529, 3.0

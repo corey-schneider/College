@@ -1,0 +1,9 @@
+## Follow this format for importing people:
+## T: (taken)	F: (future)	IP: (in progress)
+## T: CRN, LETTERGRADE	<-- Be sure to include the grade.
+## IP / F: CRN
+faculty, John, Roe, 631-010-1010, Professor, 63605.00
+student, Connor, Riker, 631-222-2332, Earth Scientist, T: 80853, A-, IP: 80897
+student, Riley, Birrds, 631-372-4383, Liberal Arts, T: 80951, C-, T: 80853, A, IP: 90013, F: 91005, F: 90434
+faculty, Chris, Bolton, 631-202-3993, Professor, 68238.29
+student, Billy, Joel, 631-152-5392, Computer Science, T: 80897, A, T: 94531, A, T: 94615, A, T: 80951, C, IP: 80853, IP: 80952, F: 90434, F: 91005
