@@ -1,5 +1,11 @@
 package gui;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 import util.Utilities;
 import javafx.event.ActionEvent;
 import javafx.geometry.HPos;

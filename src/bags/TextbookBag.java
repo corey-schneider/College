@@ -6,6 +6,12 @@ import java.util.Scanner;
 import util.Utilities;
 import model.Textbook;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 public class TextbookBag {
 
 	Textbook[] textbookArray;

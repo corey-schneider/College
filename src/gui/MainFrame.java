@@ -34,8 +34,8 @@ import javafx.stage.WindowEvent;
 import model.College;
 import util.Utilities;
 
-
 /**
+ * @author Corey Schneider
  * An example of a menu bar. The example includes use of the system bar, if the
  * current platform supports a system bar.
  */

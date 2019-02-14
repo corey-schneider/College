@@ -10,6 +10,11 @@ import javafx.scene.control.Alert.AlertType;
 import model.*;
 import util.Utilities;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
 
 public class PeopleBag {
 

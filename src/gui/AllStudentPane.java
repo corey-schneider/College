@@ -1,5 +1,11 @@
 package gui;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 import java.util.Arrays;
 
 import javafx.collections.*;

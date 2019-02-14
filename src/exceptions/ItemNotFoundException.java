@@ -1,5 +1,11 @@
 package exceptions;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 @SuppressWarnings("serial")
 public class ItemNotFoundException extends Exception {
 

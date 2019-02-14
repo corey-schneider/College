@@ -2,6 +2,12 @@ package model;
 
 import java.io.Serializable;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 @SuppressWarnings("serial")
 public abstract class Person implements Serializable {
 	

@@ -1,5 +1,11 @@
 package exceptions;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 @SuppressWarnings("serial")
 public class GpaException extends Exception {
 

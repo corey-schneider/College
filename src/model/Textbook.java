@@ -3,7 +3,11 @@ package model;
 import java.io.Serializable;
 import java.text.DecimalFormat;
 
-//checked and is good
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
 
 @SuppressWarnings("serial")
 public class Textbook implements Serializable {

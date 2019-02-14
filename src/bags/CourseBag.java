@@ -13,6 +13,12 @@ import javafx.scene.control.Alert.AlertType;
 import util.Utilities;
 import model.Course;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 @SuppressWarnings("serial")
 public class CourseBag implements Serializable {
 

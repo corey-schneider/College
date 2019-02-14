@@ -1,5 +1,10 @@
 package model;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
 
 import java.io.Serializable;
 

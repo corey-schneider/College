@@ -37,6 +37,12 @@ import model.Student;
 import util.Utilities;
 import bags.CourseBag;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 public class StudentPane {
 
 	GridPane grid = new GridPane();

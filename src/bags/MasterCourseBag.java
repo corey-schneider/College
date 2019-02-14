@@ -7,6 +7,12 @@ import javafx.scene.control.Alert.AlertType;
 import util.Utilities;
 import model.*;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 public class MasterCourseBag {
 
 	Course[] courseArray;

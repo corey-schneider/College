@@ -33,6 +33,12 @@ import model.Student;
 import model.Textbook;
 import util.Utilities;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 public class CoursePane {
 
 	private GridPane grid;

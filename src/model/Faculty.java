@@ -1,5 +1,11 @@
 package model;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
+
 import java.io.Serializable;
 import java.text.DecimalFormat;
 

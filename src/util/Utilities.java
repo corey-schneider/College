@@ -7,6 +7,11 @@ import javafx.scene.control.Alert.AlertType;
 import model.College;
 import model.Course;
 
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
 
 public class Utilities {
 

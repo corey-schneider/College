@@ -4,7 +4,11 @@ import bags.MasterCourseBag;
 import bags.PeopleBag;
 import bags.TextbookBag;
 
-//highest level class
+/**
+ * 
+ * @author Corey Schneider
+ *
+ */
 
 public class College {
 
